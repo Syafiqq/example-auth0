@@ -1,4 +1,5 @@
 module.exports = {
+  mode: 'spa',
   /*
   ** Router config
   */
@@ -33,4 +34,4 @@ module.exports = {
     AUTH0_CLIENT_ID: '',
     AUTH0_CLIENT_DOMAIN: ''
   }
-}
+};
